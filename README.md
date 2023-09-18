@@ -9,8 +9,7 @@ NLW AI - UPLOAD AI
 
 <h1 align="center" >
 
-  <img  src="https://github.com/RafaelFigueiredo2203/myskills/assets/60237326/fca52a08-3b11-44ed-8339-47c586f4d030"/>
-   <img src="https://github.com/RafaelFigueiredo2203/myskills/assets/60237326/f8fd4958-d77a-4799-9ce6-0838b8b73270"/>
+  <video src="./2023-09-18 18-07-06.mkv"/> 
 
   </h1>
 
