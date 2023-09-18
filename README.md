@@ -9,7 +9,7 @@ NLW AI - UPLOAD AI
 
 <h1 align="center" >
 
-  <video src="2023-09-18 18-07-06.mkv"/> 
+  <img src="./chrome-capture-2023-8-18.gif"/> 
 
   </h1>
 
