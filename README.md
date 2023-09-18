@@ -9,7 +9,7 @@ NLW AI - UPLOAD AI
 
 <h1 align="center" >
 
-  <img src="./chrome-capture-2023-8-18.gif"/> 
+  <img src="/chrome-capture-2023-8-18.gif"/> 
 
   </h1>
 
