@@ -32,10 +32,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Upload Ai é um projeto onde podemos fazer títulos e desacrições a partir do upload de um vídeo , para realizar esse processo utilizamos o WebAssembly(ffmpeg) para converter o vídeo para áudio direto do navegador do usuário .
-Após isso a api da OpenAi , utiliza o áudio gerado para realizar as trasncrições e títulos para o usuário .
+Upload Ai é um projeto onde podemos fazer títulos e descrições a partir do upload de um vídeo , para realizar esse processo utilizamos o WebAssembly(ffmpeg) para converter o vídeo para áudio direto do navegador do usuário .
+Após isso a api da OpenAi , utiliza o áudio gerado para realizar as transcrições e títulos para o usuário .
 Utilizamos Vite com TailwindCss , Shadcnui no Front-End e para se comunicar com nosso banco de dados utilizamos o Prisma com NodeJs e Axios.
 Esse projeto foi muito bacana , foi muito interessante ver como a IA funciona por de baixo dos panos , o conhecimento passado também foi de grande importância e irá agregar muito em minha carreira!
+
 
 ## 🚀 Como executar
 
